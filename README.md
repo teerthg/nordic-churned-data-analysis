@@ -66,3 +66,7 @@ This project analyzes customer churn behavior in subscription services across th
 M.Sc. Statistics & Data Science, Uppsala University
 
 ---
+
+## Contact Information:
+- Email: teerth.gupta@example.com
+- LinkedIn: [Teerth Gupta](https://www.linkedin.com/in/teerthgupta/)
