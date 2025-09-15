@@ -4,7 +4,7 @@ This project analyzes customer churn behavior in subscription services across th
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 - **CustomerID**: Unique ID for each customer
 - **Country**: Country of residence (Sweden, Denmark, Norway, Finland)
@@ -17,7 +17,7 @@ This project analyzes customer churn behavior in subscription services across th
 
 ---
 
-## 🧠 Project Objectives
+##  Project Objectives
 
 - Understand churn rate patterns by country, age, and gender
 - Explore how plan type and monthly spend affect retention
@@ -26,7 +26,7 @@ This project analyzes customer churn behavior in subscription services across th
 
 ---
 
-## 🧪 Statistical Techniques Used
+##  Statistical Techniques Used
 
 - Descriptive Statistics
 - T-tests (gender vs tenure/spend)
@@ -36,10 +36,10 @@ This project analyzes customer churn behavior in subscription services across th
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
-📂 nordic-churned-analysis/
+ nordic-churned-analysis/
 ├── Nordic_Churn_Analysis.ipynb
 ├── nordic_churn_customers.xlsx
 ├── visuals/
@@ -51,7 +51,7 @@ This project analyzes customer churn behavior in subscription services across th
 ---
 
 
-## 📌 Insights Preview
+##  Insights Preview
 
 - Norway had the **highest churn rate** among the four countries
 - Customers with **shorter tenure and lower spend** are more likely to churn
@@ -60,7 +60,7 @@ This project analyzes customer churn behavior in subscription services across th
 
 ---
 
-## 👤 Author
+##  Author
 
 **Teerth Gupta**  
 M.Sc. Statistics & Data Science, Uppsala University
